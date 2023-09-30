@@ -1,0 +1,20 @@
+
+ #btn {
+    background: #008;
+    color:beige;
+
+}
+tr, td {
+    width: 60px;
+    height: 60px;
+    border: 3px solid #008000;
+}
+.color1 {
+	background: darkseagreen;
+}
+.color2 {
+	background: lightslategrey;
+}
+.color3 {
+	background: palegoldenrod;
+}
